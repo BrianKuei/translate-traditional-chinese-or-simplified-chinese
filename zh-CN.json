@@ -1,0 +1,7 @@
+{
+  "market_transaction_report": {
+    "order_count": "单量",
+    "member_count": "用户数",
+    "handling_fee": "手续费"
+  }
+}
